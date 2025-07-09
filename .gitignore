@@ -1,6 +1,26 @@
+# Ignore .terraform working directories
 **/.terraform/
-**/*.tfstate
-**/*.tfstate.backup
-**/*.log
-**/*.exe
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Ignore crash logs
+crash.log
+
+# Ignore Terraform variable files (often contain secrets)
+*.tfvars
+
+# Ignore Terraform lock file (optional, but useful if multi-platform)
+.terraform.lock.hcl
+
+# Ignore sensitive files like service account keys
 key.json
+
+# Ignore executables and logs
+*.exe
+*.log
+
+# Ignore temp files
+*.tmp
+*.zip
