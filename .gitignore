@@ -24,3 +24,4 @@ key.json
 # Ignore temp files
 *.tmp
 *.zip
+**/.terraform/
