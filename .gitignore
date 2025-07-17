@@ -24,4 +24,6 @@ key.json
 # Ignore temp files
 *.tmp
 *.zip
-**/.terraform/
+
+# Ignore specific Terraform log file
+tf-log.txt
