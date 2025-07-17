@@ -39,8 +39,8 @@ Linux Demonstration
 
 Basic Linux commands were demonstrated on one of the VMs:
 - Created 5 folders using mkdir
-- Added one `.txt` file into each folder using `touch`
-- Verified the structure with `ls -R`
+- Added one `.txt` file into each folder using `echo`
+- Verified the structure with `ls`
 
 ![Linux Folders](./Pictures/linux-folders.png)
 
