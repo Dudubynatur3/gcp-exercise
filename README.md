@@ -62,7 +62,7 @@ Cloud SQL Instance
 ![MySQL Instance](./Pictures/mysql-instance.png)
 
 MySQL Table Entries
-![MySQL Tables](./Pictures/mysql-tables.png)
+![MySQL Tables](./Pictures/my-sql-tables.png)
 
 
 ☸️ Kubernetes Cluster (GKE)
