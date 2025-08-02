@@ -108,3 +108,10 @@ Contributor
 
 All images used here were captured during the hands-on implementation. Terraform state files and credentials have been safely ignored via `.gitignore`.
 
+
+---
+
+© 2025 **Aduroja Akintade**. All rights reserved.  
+🛑 This repository is **not licensed** for reuse, redistribution, or modification.
+
+---
